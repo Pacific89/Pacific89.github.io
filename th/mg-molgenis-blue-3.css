@@ -6792,7 +6792,7 @@ body > .container-fluid {
     margin: 0 16px; }
 
 .navbar-default {
-  background: #598c68;
+  background: #8c5975;
   border: 0;
   min-height: 50px; }
   .navbar-default .navbar-nav li {
@@ -6834,11 +6834,11 @@ body > .container-fluid {
       color: #dbedff; }
   @media (max-width: 1127px) {
     .navbar-default {
-      background: #598c68; }
+      background: #8c5975; }
       .navbar-default .navbar-toggle {
         margin-right: 8px; }
       .navbar-default .navbar-collapse {
-        background: #598c68; }
+        background: #8c5975; }
       .navbar-default .navbar-nav {
         margin: 0; }
         .navbar-default .navbar-nav li a {
