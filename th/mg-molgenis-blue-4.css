@@ -194,11 +194,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #2aaae6;
+  color: #cae62a;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #157eaf;
+    color: #98af15;
     text-decoration: underline; }
 
 a:not([href]):not([class]) {
@@ -2275,10 +2275,10 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #2aaae6;
+  color: #cae62a;
   text-decoration: none; }
   .btn-link:hover {
-    color: #157eaf;
+    color: #98af15;
     text-decoration: underline; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: underline; }
@@ -3634,12 +3634,12 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #2aaae6;
+  color: #cae62a;
   background-color: #fff;
   border: 1px solid #dee2e6; }
   .page-link:hover {
     z-index: 2;
-    color: #157eaf;
+    color: #98af15;
     text-decoration: none;
     background-color: #f8f9fa;
     border-color: #dee2e6; }
