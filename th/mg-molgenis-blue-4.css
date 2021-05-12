@@ -8025,11 +8025,11 @@ html {
       background: #71b485;
       cursor: pointer; }
     .molgenis-header-container .navbar .navbar-nav .nav-item.active {
-      background: #71b485; }
+      background: #8c5975; }
       .molgenis-header-container .navbar .navbar-nav .nav-item.active a:hover {
         color: #dbedff; }
     .molgenis-header-container .navbar .navbar-nav .nav-item.dropdown.show {
-      background: #71b485; }
+      background: #8c5975; }
       .molgenis-header-container .navbar .navbar-nav .nav-item.dropdown.show > a {
         color: #dbedff; }
     .molgenis-header-container .navbar .navbar-nav .nav-item .nav-link {
