@@ -194,11 +194,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #cae62a;
+  color: #2aaae6;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #98af15;
+    color: #157eaf;
     text-decoration: underline; }
 
 a:not([href]):not([class]) {
@@ -2275,10 +2275,10 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #cae62a;
+  color: #2aaae6;
   text-decoration: none; }
   .btn-link:hover {
-    color: #98af15;
+    color: #157eaf;
     text-decoration: underline; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: underline; }
@@ -3634,12 +3634,12 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #cae62a;
+  color: #2aaae6;
   background-color: #fff;
   border: 1px solid #dee2e6; }
   .page-link:hover {
     z-index: 2;
-    color: #98af15;
+    color: #157eaf;
     text-decoration: none;
     background-color: #f8f9fa;
     border-color: #dee2e6; }
@@ -8014,7 +8014,7 @@ html {
     padding-top: 1rem; }
 
 .molgenis-header-container .navbar {
-  background: #8c5975 !important;
+  background: #598c68 !important;
   border-bottom: 0 !important; }
   .molgenis-header-container .navbar .form-inline {
     height: 100%; }
@@ -8025,11 +8025,11 @@ html {
       background: #71b485;
       cursor: pointer; }
     .molgenis-header-container .navbar .navbar-nav .nav-item.active {
-      background: #8c5975; }
+      background: #71b485; }
       .molgenis-header-container .navbar .navbar-nav .nav-item.active a:hover {
         color: #dbedff; }
     .molgenis-header-container .navbar .navbar-nav .nav-item.dropdown.show {
-      background: #8c5975; }
+      background: #71b485; }
       .molgenis-header-container .navbar .navbar-nav .nav-item.dropdown.show > a {
         color: #dbedff; }
     .molgenis-header-container .navbar .navbar-nav .nav-item .nav-link {
